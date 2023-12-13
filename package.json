@@ -1,6 +1,7 @@
 {
-  "name": "jate",
+  "name": "JATE",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "start:dev": "concurrently \"cd client && npm run build\" \"cd server && npm run server\" ",
@@ -20,6 +21,5 @@
   "devDependencies": {
     "concurrently": "^5.2.0",
     "nodemon": "^2.0.4"
-  },
-  "description": ""
+  }
 }
