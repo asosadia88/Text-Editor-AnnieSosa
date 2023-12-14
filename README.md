@@ -26,13 +26,10 @@ The PWA Text Editor is a single-page application designed to provide a seamless 
 3. Install the application for quick access from your device's home screen.
 
 
-![Application screenshot](./client/src/images/)
-
-
 
 ## Credits
 
-The successful implementation of this project, meeting all acceptance criteria, is attributed to the instructor, TAs, tutors (program and private), and the collaborative efforts of my classmates.
+The successful implementation of this project, meeting all acceptance criteria, is attributed to the instructor, TAs, tutors (program and private), and the collaborative efforts of my classmates Lourdes, Mia, Kyleigh, Lissette, and Rujaine.
 
 Resources from the following platforms contributed to the design and functionality of the application:
 - YouTube
